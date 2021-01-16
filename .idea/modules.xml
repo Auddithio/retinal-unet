@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4a47d38bc7d98b436b3525d9fee449bd508c6a2a15e433f358acabd147847b4a
-size 288
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/orobix-unet-edits.iml" filepath="$PROJECT_DIR$/.idea/orobix-unet-edits.iml" />
+    </modules>
+  </component>
+</project>
